@@ -616,4 +616,3 @@ var DateFormatter;
     };
 })();
 
-module.exports=DateFormatter;
